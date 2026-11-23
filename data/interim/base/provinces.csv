@@ -1,0 +1,64 @@
+﻿province_id,table_no,name_vi,name_ascii,region,region_vi,region_en,is_central_city
+1,1,Hà Nội,Ha Noi,RRD,Đồng bằng sông Hồng,Red River Delta,1
+26,2,Vĩnh Phúc,Vinh Phuc,RRD,Đồng bằng sông Hồng,Red River Delta,0
+27,3,Bắc Ninh,Bac Ninh,RRD,Đồng bằng sông Hồng,Red River Delta,0
+22,4,Quảng Ninh,Quang Ninh,RRD,Đồng bằng sông Hồng,Red River Delta,0
+30,5,Hải Dương,Hai Duong,RRD,Đồng bằng sông Hồng,Red River Delta,0
+31,6,Hải Phòng,Hai Phong,RRD,Đồng bằng sông Hồng,Red River Delta,1
+33,7,Hưng Yên,Hung Yen,RRD,Đồng bằng sông Hồng,Red River Delta,0
+34,8,Thái Bình,Thai Binh,RRD,Đồng bằng sông Hồng,Red River Delta,0
+35,9,Hà Nam,Ha Nam,RRD,Đồng bằng sông Hồng,Red River Delta,0
+36,10,Nam Định,Nam Dinh,RRD,Đồng bằng sông Hồng,Red River Delta,0
+37,11,Ninh Bình,Ninh Binh,RRD,Đồng bằng sông Hồng,Red River Delta,0
+2,12,Hà Giang,Ha Giang,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+4,13,Cao Bằng,Cao Bang,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+6,14,Bắc Kạn,Bac Kan,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+8,15,Tuyên Quang,Tuyen Quang,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+10,16,Lào Cai,Lao Cai,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+15,17,Yên Bái,Yen Bai,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+19,18,Thái Nguyên,Thai Nguyen,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+20,19,Lạng Sơn,Lang Son,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+24,20,Bắc Giang,Bac Giang,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+25,21,Phú Thọ,Phu Tho,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+11,22,Điện Biên,Dien Bien,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+12,23,Lai Châu,Lai Chau,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+14,24,Sơn La,Son La,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+17,25,Hòa Bình,Hoa Binh,NMM,Trung du và miền núi phía Bắc,Northern Midlands and Mountains,0
+38,26,Thanh Hóa,Thanh Hoa,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+40,27,Nghệ An,Nghe An,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+42,28,Hà Tĩnh,Ha Tinh,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+44,29,Quảng Bình,Quang Binh,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+45,30,Quảng Trị,Quang Tri,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+46,31,Thừa Thiên - Huế,Thua Thien - Hue,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+48,32,Đà Nẵng,Da Nang,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,1
+49,33,Quảng Nam,Quang Nam,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+51,34,Quảng Ngãi,Quang Ngai,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+52,35,Bình Định,Binh Dinh,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+54,36,Phú Yên,Phu Yen,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+56,37,Khánh Hòa,Khanh Hoa,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+58,38,Ninh Thuận,Ninh Thuan,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+60,39,Bình Thuận,Binh Thuan,NCC,Bắc Trung Bộ và duyên hải miền Trung,North Central and Central Coast,0
+62,40,Kon Tum,Kon Tum,CH,Tây Nguyên,Central Highlands,0
+64,41,Gia Lai,Gia Lai,CH,Tây Nguyên,Central Highlands,0
+66,42,Đắk Lắk,Dak Lak,CH,Tây Nguyên,Central Highlands,0
+67,43,Đắk Nông,Dak Nong,CH,Tây Nguyên,Central Highlands,0
+68,44,Lâm Đồng,Lam Dong,CH,Tây Nguyên,Central Highlands,0
+70,45,Bình Phước,Binh Phuoc,SE,Đông Nam Bộ,Southeast,0
+72,46,Tây Ninh,Tay Ninh,SE,Đông Nam Bộ,Southeast,0
+74,47,Bình Dương,Binh Duong,SE,Đông Nam Bộ,Southeast,0
+75,48,Đồng Nai,Dong Nai,SE,Đông Nam Bộ,Southeast,0
+77,49,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,SE,Đông Nam Bộ,Southeast,0
+79,50,TP. Hồ Chí Minh,Ho Chi Minh City,SE,Đông Nam Bộ,Southeast,1
+80,51,Long An,Long An,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+82,52,Tiền Giang,Tien Giang,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+83,53,Bến Tre,Ben Tre,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+84,54,Trà Vinh,Tra Vinh,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+86,55,Vĩnh Long,Vinh Long,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+87,56,Đồng Tháp,Dong Thap,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+89,57,An Giang,An Giang,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+91,58,Kiên Giang,Kien Giang,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+92,59,Cần Thơ,Can Tho,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,1
+93,60,Hậu Giang,Hau Giang,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+94,61,Sóc Trăng,Soc Trang,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+95,62,Bạc Liêu,Bac Lieu,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0
+96,63,Cà Mau,Ca Mau,MRD,Đồng bằng sông Cửu Long,Mekong River Delta,0

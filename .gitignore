@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Hệ điều hành, Office, IDE
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+.vscode/
+.idea/
+
+# Kết quả mô hình nặng (chạy lại được từ script/notebook)
+outputs/*
+!outputs/.gitkeep
+
+# Ấn phẩm PDF có bản quyền: bỏ dấu # ở dòng dưới nếu đưa repo lên chế độ công khai
+# data/raw/*.pdf
